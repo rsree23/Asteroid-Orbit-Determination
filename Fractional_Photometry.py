@@ -22,8 +22,6 @@ y_coords =   [503,617,656,816,743,765]
 actual_mags =   [14.448,14.457,12.571,12.932,11.510,13.620]
 
 
-# True, expected values from SkyX
-
 
 ast_x = 617
 ast_y = 591
